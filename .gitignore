@@ -404,3 +404,4 @@ appsettings.*.json
 .github/
 .vscode/
 .skills/
+docs/
