@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "gateway-api": {
+      "commandName": "Project",
+      "applicationUrl": "http://0.0.0.0:5100",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "CATALOG_URL": "http://localhost:8080"
+      }
+    }
+  }
+}
